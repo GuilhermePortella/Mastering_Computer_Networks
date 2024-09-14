@@ -28,3 +28,11 @@ Portanto redes de computadores possibilitam a comunicação para cada finalidade
 - SAN (rede de área de armazenamento)
 - CAN (rede de área de campus)
 - VPN (rede privada virtual)
+
+## O que as redes de computadores fazem?
+
+
+## Quais são os tipos de arquitetura de rede de computadores?
+
+
+## O que é topologia de rede?
