@@ -36,3 +36,8 @@ Portanto redes de computadores possibilitam a comunicação para cada finalidade
 
 
 ## O que é topologia de rede?
+
+
+## Conteúdos Gerais e Curiosidades
+
+- Cloudflare
