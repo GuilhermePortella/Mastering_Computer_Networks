@@ -29,6 +29,11 @@ Portanto redes de computadores possibilitam a comunicação para cada finalidade
 - CAN (rede de área de campus)
 - VPN (rede privada virtual)
 
+
+## Conceitos importantes
+
+
+
 ## O que as redes de computadores fazem?
 
 
