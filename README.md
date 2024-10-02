@@ -45,10 +45,10 @@ Portanto redes de computadores possibilitam a comunicação para cada finalidade
 ## O que as redes de computadores fazem?
 
 
-## Quais são os tipos de arquitetura de rede de computadores?
+## Topologia de rede
 
 
-## O que é topologia de rede?
+## Arquitetura de Redes
 
 
 ## Conteúdos Gerais e Curiosidades
