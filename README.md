@@ -31,7 +31,15 @@ Portanto redes de computadores possibilitam a comunicação para cada finalidade
 
 
 ## Conceitos importantes
-
+- Endereço IP
+- Nós
+- Roteadores
+- Comutadores
+  - Comutação de circuito
+  - Comutação de pacotes
+  - Comutação de mensagens
+- Portas
+- Tipos de cabos de rede
 
 
 ## O que as redes de computadores fazem?
