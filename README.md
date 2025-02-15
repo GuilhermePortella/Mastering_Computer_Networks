@@ -41,6 +41,8 @@ Portanto redes de computadores possibilitam a comunicação para cada finalidade
 - Portas
 - Tipos de cabos de rede
 
+## IP Addressing
+
 
 ## O que as redes de computadores fazem?
 
